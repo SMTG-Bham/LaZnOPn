@@ -1,8 +1,8 @@
 # LaZnOPn
 
-Repository for Paper: **Computational Prediction of the Thermoelectric Performance of LaZnOPn (Pn = P, As)**
-
 [![DOI](https://zenodo.org/badge/244654127.svg)](https://zenodo.org/badge/latestdoi/244654127)
+
+Repository for Paper: **Computational Prediction of the Thermoelectric Performance of LaZnOPn (Pn = P, As)**
 
 DFT optimised crystal structures of LaZnOP and LaZnOAs, calculated using the Vienna *Ab initio* Package (VASP).
 
