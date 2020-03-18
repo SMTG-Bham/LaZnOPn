@@ -1,6 +1,6 @@
 # LaZnOPn
 
-Repository for Paper: Computational Prediction of the Thermoelectric Per- formance of LaZnOPn (Pn = P, As)
+Repository for Paper: Computational Prediction of the Thermoelectric Performance of LaZnOPn (Pn = P, As)
 
 DOI: to be confirmed 
 
